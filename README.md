@@ -30,14 +30,14 @@ Eine umfassende und dennoch **verdammt einfache** Python-Bibliothek zur Erstellu
 ### Via pip (empfohlen)
 
 ```bash
-pip install console-table
+pip install console-table-lib-lib
 ```
 
 ### Aus dem Quellcode
 
 ```bash
-git clone https://github.com/yourusername/console-table.git
-cd console-table
+git clone https://github.com/yourusername/console-table-lib.git
+cd console-table-lib
 pip install -e .
 ```
 

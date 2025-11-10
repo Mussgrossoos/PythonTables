@@ -22,7 +22,7 @@ git commit -m "Initial commit: Console Table Library v2.0.0"
 ## Schritt 4: GitHub Repository erstellen
 
 1. Gehe zu https://github.com/new
-2. Repository-Name: `console-table` (oder dein gewünschter Name)
+2. Repository-Name: `console-table-lib-lib` (oder dein gewünschter Name)
 3. Beschreibung: "Eine umfassende und dennoch verdammt einfache Python-Bibliothek zur Erstellung von gut formatierten Tabellen in der Konsole"
 4. Wähle **Public** oder **Private**
 5. **NICHT** "Initialize with README" ankreuzen (wir haben schon eine)
@@ -32,7 +32,7 @@ git commit -m "Initial commit: Console Table Library v2.0.0"
 
 ```bash
 # Ersetze YOUR_USERNAME mit deinem GitHub-Username
-git remote add origin https://github.com/YOUR_USERNAME/console-table.git
+git remote add origin https://github.com/YOUR_USERNAME/console-table-lib-lib.git
 ```
 
 ## Schritt 6: Auf GitHub hochladen
@@ -47,7 +47,7 @@ git push -u origin main
 Falls du GitHub CLI installiert hast:
 
 ```bash
-gh repo create console-table --public --source=. --remote=origin --push
+gh repo create console-table-lib --public --source=. --remote=origin --push
 ```
 
 ## Nach dem Upload

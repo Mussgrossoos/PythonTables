@@ -18,7 +18,7 @@ with open("console_table/__init__.py", "r", encoding="utf-8") as f:
             break
 
 setup(
-    name="console-table",
+    name="console-table-lib",
     version=version.get("__version__", "2.0.0"),
     author="Your Name",
     author_email="your.email@example.com",
